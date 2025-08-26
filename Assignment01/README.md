@@ -1,4 +1,4 @@
-# 🎬 Movie Semantic Search Engine Roll no 221020456-Toshan kanwar
+# 🎬 Movie Semantic Search Engine Roll no 221020438 Michael Ekka
 
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![Tests](https://img.shields.io/badge/tests-7%2F7%20passing-brightgreen.svg)
@@ -10,7 +10,7 @@
 This repository contains my comprehensive solution for the AI Systems Development semantic search assignment. The system uses state-of-the-art sentence embeddings to find movies based on plot similarity rather than simple keyword matching, enabling intelligent content discovery through natural language queries.
 
 ---
-![Test Results](Test-Results/7-Test-Passed.png)
+![Test Results](test-results/7-Test-Passed.png)
 
 ## 🚀 Features
 
@@ -136,17 +136,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.t
 
 ## 👨‍💻 Contact Information
 
-**Developer**: Toshan Kanwar
-**Student ID**: [221020456]  
+**Developer**: Michael Ekka
+**Student ID**: [221020438]  
 **University**: IIIT Naya Raipur  
 **Course**: AI Systems Development  
 **Assignment**: Semantic Search Engine (Assignment 1)
 
-### 📧 Get in Touch
-- **Email**: contact@toshankanwar.website
-- **LinkedIn**: [https://www.linkedin.com/in/toshan-kanwar-4683a1349/](https://www.linkedin.com/in/toshan-kanwar-4683a1349/)
-- **GitHub**: [@toshankanwar](https://github.com/toshankanwar)
-- **Portfolio**: [https://toshankanwar.website](https://toshankanwar.website)
 
 ### 🎓 Academic Information
 - **Submission Date**: August 26, 2025
